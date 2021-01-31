@@ -19,3 +19,10 @@ $(document).ready(function() {
     event.preventDefault();
   });
 });
+
+// const = words = [$("input#person1").val(),$("input#person2").val()("input#person2").val()$("input#animal").val()$("input#exclamation").val()$("input#verb").val()$("input#noun").val()]
+// place = ".place"
+//words.forEach(function(element) {
+//place += "1"
+//$(element.text(place);)
+//})
